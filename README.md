@@ -4,6 +4,13 @@ New grad software engineer focused on **backend** and **full-stack** development
 
 🤖 **How I build with AI:** I use AI to speed up implementation and learn faster. I give it clear goals and context, work in small, focused changes, and review and test everything before it ships.
 
+🌱 **Currently learning:** going deeper on backend, cloud and system design, while experimenting with new AI tools and finding ways to improve my everyday workflows with AI
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Org Knowledge RAG](https://github.com/JasonServito/org-knowledge-rag) | Answers questions from technical docs with cited sources, and flags conflicting or outdated info | Python, FastAPI, PostgreSQL, AWS |
+| [Portfolio Analytics](https://github.com/JasonServito/portfolio-scope) | Tracks portfolios and researches stocks, with AI-generated research reports | Next.js, TypeScript, PostgreSQL |
+
 🛠️ **Core stack:** Python · TypeScript · Django · FastAPI · React · PostgreSQL · AWS · Docker
 
 <details>
@@ -16,10 +23,12 @@ New grad software engineer focused on **backend** and **full-stack** development
 **Data:** PostgreSQL · pgvector · MongoDB<br>
 **Cloud & DevOps:** AWS · GCP · Docker · Terraform · GitHub Actions<br>
 **AI tools:** Claude Code · Codex · Claude API · OpenAI API<br>
-**AI development practices:** Multi-agent orchestration · Parallel agents with Git worktrees · Task decomposition · Context engineering · AI code review & verification · Mutation testing<br>
-**AI/LLM concepts:** RAG · Hybrid search & reranking · Vector embeddings (pgvector) · Structured outputs · Query routing · Citation grounding · Retrieval evaluation (MRR)
+**AI development practices:** Multi-agent orchestration · Parallel agents with Git worktrees · Task decomposition · Context engineering · AI code review & verification · Mutation testing
 
 </details>
+
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/jason-servito/) · [jasonservito000@gmail.com](mailto:jasonservito000@gmail.com)
+
 
 
 <!--
